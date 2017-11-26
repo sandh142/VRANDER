@@ -1,0 +1,16 @@
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\bin\Debug\VRANDER_01.exe.config
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\bin\Debug\VRANDER_01.exe
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\bin\Debug\VRANDER_01.pdb
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.csprojResolveAssemblyReference.cache
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.Form1.resources
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.Payment.resources
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.Properties.Resources.resources
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.csproj.GenerateResource.Cache
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.exe
+c:\users\shasheka\documents\visual studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.pdb
+C:\Users\shasheka\Documents\Visual Studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.Feedback.resources
+C:\Users\shasheka\Documents\Visual Studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.History.resources
+C:\Users\shasheka\Documents\Visual Studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.Options.resources
+C:\Users\shasheka\Documents\Visual Studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.Signup.resources
+C:\Users\shasheka\Documents\Visual Studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.Edit.resources
+C:\Users\shasheka\Documents\Visual Studio 2013\Projects\VRANDER_01\VRANDER_01\obj\Debug\VRANDER_01.Order.resources
